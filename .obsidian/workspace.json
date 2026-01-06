@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index/我的技术栈.md",
+                "file": "Index/C语言基础知识索引.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "我的技术栈"
+              "title": "C语言基础知识索引"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git的结构与使用流程.md",
+                "file": "Git/Git的初步使用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git的结构与使用流程"
+              "title": "Git的初步使用"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,22 +208,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c25d9e7df18e084",
+  "active": "ae14b3fe9063f39b",
   "lastOpenFiles": [
-    "Git/Git的初步使用.md",
-    "Git/Git的安装.md",
-    "Index/C语言基础知识索引.md",
-    "C/原码、反码、补码.md",
     "Index/我的技术栈.md",
-    "Index",
-    "C/VSCode的Release和Debug模式.md",
-    "C/C进阶专题：数据的存储.md",
-    "C/值的环.md",
-    "C/类型的基本概括.md",
     "C/有符号和无符号的char存储范围.md",
+    "C/值的环.md",
+    "C/VSCode的Release和Debug模式.md",
+    "C/浮点数在内存的存储.md",
+    "Index/C语言基础知识索引.md",
     "C/大小端问题.md",
-    "机场.md",
+    "C/类型的基本概括.md",
+    "Git/Git的初步使用.md",
     "Git/Git的结构与使用流程.md",
+    "Git/Git的安装.md",
+    "C/原码、反码、补码.md",
+    "Index",
+    "C/C进阶专题：数据的存储.md",
+    "机场.md",
     "Git/开了VPNGit依旧连接错误.md",
     "Git/分支管理.md",
     "Git/Pasted image 20260106104223.png",
