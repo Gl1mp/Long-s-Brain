@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/指针.md",
+                "file": "C/传参：数组和指针.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "指针"
+              "title": "传参：数组和指针"
             }
           }
         ]
@@ -196,11 +196,19 @@
   },
   "active": "4a2c0953e2de0ed2",
   "lastOpenFiles": [
+    "C/arr和&arr.md",
+    "C/传参：数组和指针.md",
+    "Index/C语言基础知识索引.md",
+    "C/指针&数组.md",
+    "C/大小端问题.md",
     "C/值的环.md",
-    "C/指针.md",
+    "C/原码、反码、补码.md",
+    "C/有符号和无符号的char存储范围.md",
+    "Git/分支管理.md",
+    "C/浮点数在内存的存储.md",
+    "C/PDF/未命名.md",
     "C/PDF/初级/第1节-初识C语言.pdf",
     "C/PDF/初级/第0节-课前准备.pdf",
-    "C/浮点数在内存的存储.md",
     "C/PDF/进阶/第7节-程序的编译(预处理操作)+链接.pdf",
     "C/PDF/进阶/第6节-文件操作.pdf",
     "C/PDF/进阶/第5节-动态内存管理.pdf",
@@ -210,21 +218,16 @@
     "C/PDF/进阶/第1节-数据的存储.pdf",
     "C/PDF/进阶",
     "C/类型的基本概括.md",
-    "C/有符号和无符号的char存储范围.md",
-    "C/原码、反码、补码.md",
     "C/VSCode的Release和Debug模式.md",
     "Git/Pasted image 20260106104223.png",
     "Git/Git的结构与使用流程.md",
-    "Index/C语言基础知识索引.md",
     "Index/我的技术栈.md",
     "Index/常见LaTeX字符.md",
-    "C/大小端问题.md",
     "Git/Git的初步使用.md",
     "Git/Git的安装.md",
     "C/C进阶专题：数据的存储.md",
     "机场.md",
     "Git/开了VPNGit依旧连接错误.md",
-    "Git/分支管理.md",
     "Windows/CMD中无法切换驱动器.md",
     "().md",
     "欢迎.md"
