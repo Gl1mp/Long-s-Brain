@@ -16,7 +16,7 @@
   ],
   "tabSize": 4,
   "snippetsManager": {
-    "location": false,
+    "location": true,
     "icon": "code"
   },
   "showPrintMargin": true,
