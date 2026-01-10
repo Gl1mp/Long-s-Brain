@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <string.h>
+#include <assert.h>
 char* m_strcpy_1(char* destination, const char* source) {
 	char* h = destination;
 	while (*source) {
@@ -32,4 +35,10 @@ int m_strcmp_1(const char* str1, const char* str2) {
 		str2++;
 	}
 	return (*(unsigned char*)str1 - *(unsigned char*)str2);
+}
+int main() {
+	char a[10] = "abc";
+	char b[10] = "xyz";
+	int ret = m_strcmp_1(a, b);
+	printf("%d", ret);
 }
