@@ -11,14 +11,12 @@
             "id": "49c7b8a1ace1db2e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "ace-code-editor",
               "state": {
-                "file": "C/笔记库/字符串函数/strlen()及其模拟实现.md",
-                "mode": "preview",
-                "source": false
+                "file": "C/代码库/strlen()的三种模拟实现.c"
               },
-              "icon": "lucide-file",
-              "title": "strlen()及其模拟实现"
+              "icon": "code-xml",
+              "title": "strlen()的三种模拟实现"
             }
           }
         ]
@@ -195,10 +193,13 @@
       "ace-code-editor:打开css片段管理器": false
     }
   },
-  "active": "84a04f26516267e8",
+  "active": "49c7b8a1ace1db2e",
   "lastOpenFiles": [
-    "C/笔记库/数据类型与内存表示/原码、反码、补码.md",
     "C/笔记库/字符串函数/strlen()及其模拟实现.md",
+    "C/代码库/strlen()的三种模拟实现.c",
+    "C/代码库/strlen()的三种模拟实现.txt",
+    "C/代码库/新建 文本文档.txt",
+    "C/笔记库/数据类型与内存表示/原码、反码、补码.md",
     "C/笔记库/字符串函数",
     "C/笔记库/数据类型与内存表示/有符号和无符号的char存储范围.md",
     "C/笔记库/数据类型与内存表示/浮点数在内存的存储.md",
@@ -216,7 +217,6 @@
     "C/笔记库/数据类型与内存表示/值的环.md",
     "C/笔记库/数据类型与内存表示/类型的基本概括.md",
     "C/代码库/新建 文本文档.c",
-    "C/代码库/新建 文本文档.txt",
     "Index/C语言基础知识索引.md",
     "2026-01-08.md",
     "C/文件库",
@@ -224,15 +224,12 @@
     "C/笔记库",
     "C/代码库",
     "C/笔记库/开发工具与模式",
-    "C/笔记库/数据类型与内存表示",
-    "C/笔记库/指针、数组与传参",
     "C/笔记库/开发工具与模式/VSCode的Release和Debug模式.md",
     "Index/我的技术栈.md",
     "Index/常见LaTeX字符.md",
     "例1.md",
     "Git/分支管理.md",
     "C/PDF/未命名.md",
-    "Git/Pasted image 20260106104223.png",
-    "Git/Git的结构与使用流程.md"
+    "Git/Pasted image 20260106104223.png"
   ]
 }
