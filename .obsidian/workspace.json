@@ -11,12 +11,14 @@
             "id": "49c7b8a1ace1db2e",
             "type": "leaf",
             "state": {
-              "type": "ace-code-editor",
+              "type": "markdown",
               "state": {
-                "file": "C/代码库/strcpy()&strcmp()&strcat()的模拟实现.c"
+                "file": "C/笔记库/指针、数组与传参/指针和数组笔试题解析.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "code-xml",
-              "title": "strcpy()&strcmp()&strcat()的模拟实现"
+              "icon": "lucide-file",
+              "title": "指针和数组笔试题解析"
             }
           }
         ]
@@ -195,13 +197,13 @@
   },
   "active": "49c7b8a1ace1db2e",
   "lastOpenFiles": [
-    "C/代码库/strlen()的三种模拟实现.c",
+    "C/笔记库/字符串函数/strlen()及其模拟实现.md",
     "C/代码库/strcpy()&strcmp()&strcat()的模拟实现.c",
+    "C/代码库/strlen()的三种模拟实现.c",
     "C/笔记库/字符串函数/strcpy() & strcat() & strcmp().md",
     "C/代码库/strcpy()&strcmp()&strcat()的模拟实现.cat",
     "C/代码库/strcpy()&strcmp()&strcat()的模拟实现.txt",
     "C/代码库/新建 文本文档.txt",
-    "C/笔记库/字符串函数/strlen()及其模拟实现.md",
     "C/代码库/泛型冒泡排序.c",
     "C/代码库/strlen()的三种模拟实现.txt",
     "C/笔记库/数据类型与内存表示/原码、反码、补码.md",
