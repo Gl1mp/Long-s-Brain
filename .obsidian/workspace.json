@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/笔记库/字符串和内存函数/strtok() & strerror().md",
-                "mode": "preview",
+                "file": "C/笔记库/字符串和内存函数/memcpy() & memmove() & memcmp().md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "strtok() & strerror()"
+              "title": "memcpy() & memmove() & memcmp()"
             }
           }
         ]
@@ -197,10 +197,10 @@
   },
   "active": "189d0a1e8f89e3c6",
   "lastOpenFiles": [
+    "C/笔记库/字符串和内存函数/strtok() & strerror().md",
     "C/笔记库/字符串和内存函数/memcpy() & memmove() & memcmp().md",
     "C/笔记库/字符串和内存函数/strcpy() & strcat() & strcmp().md",
     "C/笔记库/字符串和内存函数/strlen()及其模拟实现.md",
-    "C/笔记库/字符串和内存函数/strtok() & strerror().md",
     "C/笔记库/字符串和内存函数/strstr()及其模拟实现.md",
     "C/笔记库/指针、数组与传参/泛型指针.md",
     "C/笔记库/指针、数组与传参/传参：数组和指针.md",
