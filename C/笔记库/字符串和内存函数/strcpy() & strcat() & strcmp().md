@@ -8,7 +8,7 @@ char* strcpy(char * destination, const char * source );
 - 需要两个参数，destination的首元素地址和source的首元素地址
 - 这是一个不安全的函数，因为长度不受限制
 - **他会复制source中的'\0'**
-#### 例子
+### 样例
 ```C
 #include <stdio.h>
 #include <string.h>
@@ -19,7 +19,7 @@ int main() {
 	printf("%s",b);
 }
 ```
-#### 模拟实现
+### 模拟实现
 ```C
 char* m_strcpy_1(char* destination, const char* source) {
 	char* h = destination;
@@ -57,7 +57,7 @@ char * strcat ( char * destination, const char * source );
 - strcat是一个追加函数，将source的内容追加到destination的尾上。
 - destination不能加const，因为他需要被修改
 - 返回值是destination的首元素地址
-#### 例子
+### 样例
 ```C
 #include <stdio.h>
 #include <string.h>
@@ -68,7 +68,7 @@ int main() {
 	printf("%s",b);
 }
 ```
-#### 模拟实现
+### 模拟实现
 ```C
 char* m_strcat_1(char* dest, const char* src) {
 	assert(dest && src);
@@ -90,7 +90,7 @@ int strcmp ( const char * str1, const char * str2 );
 - str1大于str2，返回正数
 - str1小于str2，返回负数
 - str1等于str2，返回0
-#### 例子
+### 样例
 ```C
 #include <stdio.h>
 #include <string.h>
@@ -101,7 +101,7 @@ int main() {
 	printf("%d", ret);
 }
 ```
-#### 模拟实现
+### 模拟实现
 ```C
 int m_strcmp_1(const char* str1, const char* str2) {
 	assert(str1 && str2);
