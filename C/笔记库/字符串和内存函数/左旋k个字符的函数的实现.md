@@ -70,3 +70,18 @@ void rotate_k_2(char* arr, int k) {
 	reverse(arr, arr + len - 1);
 }
 ```
+
+## 问题：字符串str1左旋若干个字符可以变成str2吗？
+我们可以将`str2`所有的旋转结果一一表示出来，这是一种方法。还有一种比较快的方法，将`str2`重复一遍，再看`str1`是不是他的字串即可。
+```C
+void append_self(char* str, size_t buf_size) {
+    int len = strlen(str);
+    if (len * 2 + 1 <= buf_size) {
+        for (int i = 0; i < len; i++) {
+            str[len + i] = str[i];
+        }
+        str[len * 2] = '\0';
+    }
+}
+```
+这个函数负责自己追加自己。如果用`strncat()`来自我追加是个未定义行为。追加完之后用`strstr()`来判断`str1`是不是`str2`的字串就可以了。
