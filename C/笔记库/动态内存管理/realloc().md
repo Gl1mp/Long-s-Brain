@@ -1,4 +1,4 @@
-realloc()用来调整动态内存空间大小。`realloc(NULL,<size>)`其实就和`malloc(1,<size>)`功能相同了。
+realloc()用来调整动态内存空间大小。`realloc(NULL,<size>)`其实就和`malloc(1,<size>)`功能相同了。增长的空间不会被初始化。
 ## 函数原型
 ```C
 void* realloc (void* ptr, size_t size);
