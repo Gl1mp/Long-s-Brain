@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "C/笔记库/动态内存管理/malloc() & free().md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -48,7 +48,7 @@
               "type": "markdown",
               "state": {
                 "file": "C/笔记库/动态内存管理/calloc().md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -229,10 +229,10 @@
       "ace-code-editor:打开css片段管理器": false
     }
   },
-  "active": "d80ff3461161778c",
+  "active": "87e9ac24efce52e8",
   "lastOpenFiles": [
-    "C/笔记库/动态内存管理/malloc() & free().md",
     "C/笔记库/动态内存管理/calloc().md",
+    "C/笔记库/动态内存管理/malloc() & free().md",
     "C/笔记库/动态内存管理/realloc().md",
     "C/笔记库/字符串和内存函数/strtok() & strerror().md",
     "C/笔记库/动态内存管理/导言&索引.md",
