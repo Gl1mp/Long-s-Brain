@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/笔记库/动态内存管理/malloc() & free().md",
+                "file": "C/笔记库/指针、数组与传参/递归中传参的方式区别.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "malloc() & free()"
+              "title": "递归中传参的方式区别"
             }
           },
           {
@@ -229,10 +229,11 @@
       "ace-code-editor:打开css片段管理器": false
     }
   },
-  "active": "87e9ac24efce52e8",
+  "active": "84a04f26516267e8",
   "lastOpenFiles": [
-    "C/笔记库/动态内存管理/calloc().md",
     "C/笔记库/动态内存管理/malloc() & free().md",
+    "C/笔记库/指针、数组与传参/递归中传参的方式区别.md",
+    "C/笔记库/动态内存管理/calloc().md",
     "C/笔记库/动态内存管理/realloc().md",
     "C/笔记库/字符串和内存函数/strtok() & strerror().md",
     "C/笔记库/动态内存管理/导言&索引.md",
@@ -267,7 +268,6 @@
     "C/文件库/PDF/进阶/第4节-自定义类型详解(结构体+枚举+联合).pdf",
     "C/文件库/图片/Pasted image 20260115154125.png",
     "C/文件库/图片/Pasted image 20260115153840.png",
-    "C/笔记库/字符串和内存函数/strstr()及其模拟实现.md",
     "C/文件库/图片/图1.png",
     "C/代码库/strcpy()&strcmp()&strcat()的模拟实现.c",
     "C/代码库/strlen()的三种模拟实现.c",
