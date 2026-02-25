@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "汉化/po文件和mo文件.md",
-                "mode": "preview",
+                "file": "汉化/相关软件/poedit.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "po文件和mo文件"
+              "title": "poedit"
             }
           }
         ]
@@ -198,6 +198,7 @@
   "active": "3a21f3177058534a",
   "lastOpenFiles": [
     "汉化/相关软件/Resource Hacker.md",
+    "汉化/相关软件/poedit.md",
     "汉化/po文件和mo文件.md",
     "汉化/相关软件",
     "CE/如何汉化CE.md",
@@ -235,7 +236,6 @@
     "开发工具与模式",
     "C/C/笔记库/开发工具与模式/VSCode的Release和Debug模式.md",
     "机场.md",
-    "C/C/笔记库/数据类型与内存表示/大小端问题.md",
     "C/CPP/代码库/圆和点的位置判断/test.cpp",
     "C/CPP/代码库/圆和点的位置判断/point.h",
     "C/CPP/代码库/圆和点的位置判断/point.cpp",
