@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CE/如何汉化CE.md",
+                "file": "汉化/Resource Hacker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "如何汉化CE"
+              "title": "Resource Hacker"
             }
           }
         ]
@@ -197,8 +197,10 @@
   },
   "active": "3a21f3177058534a",
   "lastOpenFiles": [
-    "README.md",
     "CE/如何汉化CE.md",
+    "汉化/Resource Hacker.md",
+    "汉化",
+    "README.md",
     "CE",
     "C/C/文件库/图片/Pasted image 20260118103017.png",
     "数据结构与算法/Pasted image 20260122135718.png",
@@ -233,12 +235,10 @@
     "机场.md",
     "C/C/笔记库/数据类型与内存表示/大小端问题.md",
     "C/C/笔记库/数据类型与内存表示/浮点数在内存的存储.md",
-    "C/C/笔记库/动态内存管理/realloc().md",
     "C/CPP/代码库/圆和点的位置判断/test.cpp",
     "C/CPP/代码库/圆和点的位置判断/point.h",
     "C/CPP/代码库/圆和点的位置判断/point.cpp",
     "C/CPP/代码库/圆和点的位置判断/circle.h",
-    "C/CPP/代码库/圆和点的位置判断/circle.cpp",
     "C/CPP/C++核心编程/assets/clip_image002.png",
     "C/CPP/C++核心编程/assets/clip_image002.jpg",
     "C/CPP/C++核心编程/assets/1545985945198.png",
