@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "obsidian-emoji-toolbar",
-  "ace-code-editor"
+  "ace-code-editor",
+  "excalidraw-cn",
+  "obsidian-excalidraw-plugin"
 ]
