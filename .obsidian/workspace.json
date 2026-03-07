@@ -11,10 +11,14 @@
             "id": "cafe4611f6d3e74f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "网安/在线存档编辑器.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "在线存档编辑器"
             }
           }
         ]
@@ -193,18 +197,21 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "cafe4611f6d3e74f",
+  "active": "6239d30f36fe8825",
   "lastOpenFiles": [
-    "网安/CE/!CEIndex.md",
+    "网安/BP显示中文为'口口口口口口'.md",
+    "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.svg",
+    "网安/在线存档编辑器.md",
     "网安/CE/CE的指针称呼.md",
+    "网安/CE/5.共享代码（CE教程第九关）.md",
     "网安/CE/基于模糊搜索的PVZ无CD卡槽实现.md",
     "网安/CE/4.多级指针（CE教程第八关）.md",
-    "网安/CE/CE中的反汇编和自动汇编.md",
-    "网安/CE/5.共享代码（CE教程第九关）.md",
     "网安/CE/3.通过一级指针定位基址（CE教程第六关）.md",
     "网安/CE/2.精确、模糊数值搜索.md",
     "网安/CE/1.找到合适的进程.md",
     "网安/CE/0.如何汉化CE.md",
+    "网安/CE/!CEIndex.md",
+    "网安/CE/CE中的反汇编和自动汇编.md",
     "网安/CE/Picture/Pasted image 20260306145854.png",
     "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.md",
     "网安/CE/Picture/Pasted image 20260307144625.png",
@@ -215,13 +222,10 @@
     "网安/CE/Picture/Pasted image 20260306150845.png",
     "Pasted image 20260306150808.png",
     "网安/CE/Picture",
-    "网安/BP显示中文为'口口口口口口'.md",
-    "网安/在线存档编辑器.md",
     "网安/CE",
     "金融入门讲义及知识图谱/金融入门手册.excalidraw",
     "金融入门讲义及知识图谱/金融入门手册.excalidraw.md",
     "Pasted Image 20260304124510_048.png",
-    "Pasted Image 20260304124510_039.png",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
