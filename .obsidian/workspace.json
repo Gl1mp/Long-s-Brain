@@ -11,14 +11,12 @@
             "id": "8601cc3f858a2dc5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "网安/CE/!CEIndex.md",
-                "mode": "source",
-                "source": false
+                "file": "网安/CE/Picture/Pasted image 20260308101210.png"
               },
-              "icon": "lucide-file",
-              "title": "!CEIndex"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260308101210"
             }
           }
         ]
@@ -197,11 +195,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8601cc3f858a2dc5",
+  "active": "6239d30f36fe8825",
   "lastOpenFiles": [
+    "网安/CE/!CEIndex.md",
     "网安/Windows中修改软件的过程时程序崩溃.md",
     "网安/CE/3.精确、模糊数值搜索.md",
-    "网安/CE/!CEIndex.md",
     "网安/CE/0.如何汉化CE.md",
     "网安/CE/5.共享代码与汇编编程（CE教程第九关）.md",
     "网安/CE/4.基址问题.md",
@@ -212,7 +210,7 @@
     "网安/CE/2.基础汇编.md",
     "网安/CE/1.找到合适的进程.md",
     "网安/CE/基于模糊搜索的PVZ无CD卡槽实现.md",
-    "Pasted image 20260308101210.png",
+    "网安/CE/Picture/Pasted image 20260308101210.png",
     "网安/在线存档编辑器.md",
     "网安/BP显示中文为'口口口口口口'.md",
     "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.svg",
