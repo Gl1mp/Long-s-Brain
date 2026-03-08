@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网安/CE/3c.人造指针.md",
+                "file": "网安/CE/4.共享代码与汇编编程（CE教程第九关）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3c.人造指针"
+              "title": "4.共享代码与汇编编程（CE教程第九关）"
             }
           }
         ]
@@ -197,11 +197,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "84a04f26516267e8",
+  "active": "cafe4611f6d3e74f",
   "lastOpenFiles": [
-    "网安/CE/基础汇编.md",
     "网安/CE/3c.人造指针.md",
-    "网安/CE/5.共享代码与汇编编程（CE教程第九关）.md",
+    "网安/CE/基础汇编.md",
+    "网安/CE/4.共享代码与汇编编程（CE教程第九关）.md",
     "网安/CE/3b.指针扫描（CE教程第八关）.md",
     "网安/CE/3aA.一级指针下的手动查找基址（CE教程第六关）.md",
     "网安/CE/3aB.手动追踪多级指针（CE教程第八关）.md",
