@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C&CPP/CPP/常量折叠.md",
-                "mode": "preview",
+                "file": "C&CPP/CPP/MSVC的编译系统.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "常量折叠"
+              "title": "MSVC的编译系统"
             }
           }
         ]
@@ -199,6 +199,7 @@
   },
   "active": "357da972e46f1393",
   "lastOpenFiles": [
+    "C&CPP/CPP/MSVC编译流程时间轴.md",
     "C&CPP/CPP/MSVC的编译系统.md",
     "C&CPP/CPP/常量折叠.md",
     "C&CPP/CPP/cout的重载操作符.md",
@@ -230,7 +231,6 @@
     "网安/在线存档编辑器.md",
     "网安/BP显示中文为'口口口口口口'.md",
     "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.svg",
-    "网安/CE/CE的指针称呼.md",
     "网安/CE/Picture/Pasted image 20260306145854.png",
     "网安/CE/Picture/Pasted image 20260307144625.png",
     "网安/CE/Picture/Pasted image 20260306165057.png",
