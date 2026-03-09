@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6f51a030e1510805",
+        "id": "b8403053191be7a6",
         "type": "tabs",
         "children": [
           {
-            "id": "6c37c64b96c3ec24",
+            "id": "357da972e46f1393",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C&CPP/CPP/MSVC的编译系统.md",
-                "mode": "source",
+                "file": "C&CPP/CPP/常量折叠.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MSVC的编译系统"
-            }
-          },
-          {
-            "id": "247fec815a738880",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C&CPP/CPP/MSVC的编译系统.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MSVC的编译系统"
+              "title": "常量折叠"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,10 +197,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "247fec815a738880",
+  "active": "357da972e46f1393",
   "lastOpenFiles": [
-    "未命名.md",
     "C&CPP/CPP/MSVC的编译系统.md",
+    "C&CPP/CPP/常量折叠.md",
+    "C&CPP/CPP/cout的重载操作符.md",
+    "未命名.md",
     "C&CPP/CPP/!Index.md",
     "C&CPP/CPPLegacy/未命名.md",
     "C&CPP/CPP",
@@ -244,9 +231,7 @@
     "网安/BP显示中文为'口口口口口口'.md",
     "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.svg",
     "网安/CE/CE的指针称呼.md",
-    "网安/CE/CE中的反汇编和自动汇编.md",
     "网安/CE/Picture/Pasted image 20260306145854.png",
-    "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.md",
     "网安/CE/Picture/Pasted image 20260307144625.png",
     "网安/CE/Picture/Pasted image 20260306165057.png",
     "网安/CE/Picture/Pasted image 20260306163324.png",
