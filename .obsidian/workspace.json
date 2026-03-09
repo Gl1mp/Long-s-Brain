@@ -4,22 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "02676ae0bc50bc7c",
+        "id": "6f51a030e1510805",
         "type": "tabs",
         "children": [
           {
-            "id": "8601cc3f858a2dc5",
+            "id": "6c37c64b96c3ec24",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "网安/CE/Picture/Pasted image 20260308101210.png"
+                "file": "C&CPP/CPP/MSVC的编译系统.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260308101210"
+              "icon": "lucide-file",
+              "title": "MSVC的编译系统"
+            }
+          },
+          {
+            "id": "247fec815a738880",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C&CPP/CPP/MSVC的编译系统.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MSVC的编译系统"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,12 +212,26 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6239d30f36fe8825",
+  "active": "247fec815a738880",
   "lastOpenFiles": [
+    "未命名.md",
+    "C&CPP/CPP/MSVC的编译系统.md",
+    "C&CPP/CPP/!Index.md",
+    "C&CPP/CPPLegacy/未命名.md",
+    "C&CPP/CPP",
+    "C&CPP/CPPLegacy/指针的替代：引用.md",
+    "C&CPP/CPPLegacy/引用.md",
+    "C&CPP/CPPLegacy/CPP视角下的列表.md",
+    "C&CPP/CPPLegacy/代码库/圆和点的位置判断/test.cpp",
+    "C&CPP/CPPLegacy/代码库/圆和点的位置判断/point.cpp",
+    "C&CPP/CPPLegacy/代码库/圆和点的位置判断/circle.cpp",
+    "网安/CE/1.找到合适的进程.md",
+    "网安/CE/0.如何汉化CE.md",
     "网安/CE/!CEIndex.md",
+    "网安/CE/Picture/Pasted image 20260308101210.png",
+    "网安/CE/SortTheCourt破解实录.md",
     "网安/Windows中修改软件的过程时程序崩溃.md",
     "网安/CE/3.精确、模糊数值搜索.md",
-    "网安/CE/0.如何汉化CE.md",
     "网安/CE/5.共享代码与汇编编程（CE教程第九关）.md",
     "网安/CE/4.基址问题.md",
     "网安/CE/4c.人造指针.md",
@@ -208,9 +239,7 @@
     "网安/CE/4aB.手动追踪多级指针（CE教程第八关）.md",
     "网安/CE/4aA.一级指针下的手动查找基址（CE教程第六关）.md",
     "网安/CE/2.基础汇编.md",
-    "网安/CE/1.找到合适的进程.md",
     "网安/CE/基于模糊搜索的PVZ无CD卡槽实现.md",
-    "网安/CE/Picture/Pasted image 20260308101210.png",
     "网安/在线存档编辑器.md",
     "网安/BP显示中文为'口口口口口口'.md",
     "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.svg",
@@ -228,19 +257,8 @@
     "网安/CE/Picture",
     "网安/CE",
     "金融入门讲义及知识图谱/金融入门手册.excalidraw",
-    "金融入门讲义及知识图谱/金融入门手册.excalidraw.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Excalidraw",
-    "金融入门讲义及知识图谱/~$债券.docx",
-    "金融入门讲义及知识图谱/~$结论.docx",
-    "金融入门讲义及知识图谱/股票.docx",
-    "金融入门讲义及知识图谱/结论.docx",
-    "汉化/相关软件/poedit.md",
-    "汉化/相关软件/Resource Hacker.md",
-    "汉化/po文件和mo文件.md",
-    "README.md",
-    "C/C/笔记库/include中尖括号和引号的区别.md",
-    "1.16异世界大乱斗.md"
+    "Excalidraw"
   ]
 }
