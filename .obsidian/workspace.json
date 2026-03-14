@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C&CPP/CPP/构造函数.md",
-                "mode": "preview",
+                "file": "网络/SSH隧道的原理和实操.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "构造函数"
+              "title": "SSH隧道的原理和实操"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/笔记库/文件操作管理/打开&关闭文件.md",
+                "file": "C&CPP/CPP/构造函数.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "打开&关闭文件 的大纲"
+              "title": "构造函数 的大纲"
             }
           },
           {
@@ -199,8 +199,13 @@
   },
   "active": "704ba64462bdf4c9",
   "lastOpenFiles": [
-    "C&CPP/CPP/没看的集数.md",
+    "Pasted image 20260314111601.png",
+    "网络/Picture/Pasted image 20260314110829.png",
+    "网络/SSH隧道的原理和实操.md",
+    "网络/Picture",
     "C&CPP/CPP/构造函数.md",
+    "网络",
+    "C&CPP/CPP/没看的集数.md",
     "C&CPP/CPP/基本日志类.md",
     "C&CPP/CPP/Enum.md",
     "C&CPP/CPP/单例模式.md",
@@ -225,8 +230,6 @@
     "C&CPP/CPPLegacy/未命名.md",
     "C&CPP/CPP",
     "C&CPP/CPPLegacy/指针的替代：引用.md",
-    "C&CPP/CPPLegacy/引用.md",
-    "C&CPP/CPPLegacy/CPP视角下的列表.md",
     "C&CPP/CPPLegacy/代码库/圆和点的位置判断/test.cpp",
     "C&CPP/CPPLegacy/代码库/圆和点的位置判断/point.cpp",
     "C&CPP/CPPLegacy/代码库/圆和点的位置判断/circle.cpp",
@@ -239,11 +242,8 @@
     "Pasted image 20260306150806.png",
     "Pasted image 20260306150803.png",
     "网安/CE/Picture/Pasted image 20260306150845.png",
-    "Pasted image 20260306150808.png",
     "网安/CE/Picture",
     "网安/CE",
-    "金融入门讲义及知识图谱/金融入门手册.excalidraw",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts"
+    "金融入门讲义及知识图谱/金融入门手册.excalidraw"
   ]
 }
