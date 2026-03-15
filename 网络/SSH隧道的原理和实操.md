@@ -62,3 +62,6 @@ ssh -i <本地私钥路径> -D 本地端口 用户名@服务器地址
 curl --socks5-hostname localhost:1080 http://127.0.0.1:8001
 ```
 这样就可以正常访问了。
+## SSH翻墙SOCKS代理方案
+在学习了SSH动态隧道后我们可以构想这样一个代理方案。
+![[Picture/Pasted image 20260314112540.png]]

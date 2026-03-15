@@ -1,5 +1,8 @@
 {
   "enabledCssSnippets": [
     "1"
-  ]
+  ],
+  "theme": "obsidian",
+  "cssTheme": "GitHub Theme",
+  "accentColor": ""
 }
