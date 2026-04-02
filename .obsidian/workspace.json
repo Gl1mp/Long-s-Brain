@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网安/密码学/网站前后端加密原理.md",
-                "mode": "source",
+                "file": "网安/密码学/网站前后端加密传输原理.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "网站前后端加密原理"
+              "title": "网站前后端加密传输原理"
             }
           }
         ]
@@ -199,8 +199,10 @@
   },
   "active": "f4277394baed5c72",
   "lastOpenFiles": [
-    "网安/密码学/本地加密Slat+IV+Ciphertext.md",
-    "网安/密码学/网站前后端加密原理.md",
+    "网安/密码学/哈希密码校验：Ciphertext中的一部分.md",
+    "网安/密码学/本地加密认证：Password+Salt+AES.md",
+    "网安/密码学/网站前后端加密传输原理.md",
+    "网安/密码学/!Index.md",
     "网安/Windows中修改软件的过程时程序崩溃.md",
     "网安/密码学",
     "网安/BP显示中文为'口口口口口口'.md",
@@ -226,9 +228,7 @@
     "工具/VS/未命名.md",
     "工具/VS/Pictures/Pasted image 20260325101245.png",
     "C&CPP/CPP/编译器(MSVC)/动静态库以及导入方式.md",
-    "C&CPP/CPP/类和对象/浅拷贝&深拷贝.md",
     "金融入门讲义及知识图谱/~$股票.docx",
-    "C&CPP/CPP/类和对象/实例化对象的若干种方法.md",
     "C&CPP/CPP/编译器(MSVC)/预编译",
     "C&CPP/CPP/字符串",
     "C&CPP/CPP/指针、数组",

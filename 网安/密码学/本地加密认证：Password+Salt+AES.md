@@ -3,21 +3,22 @@
 如果没有后端（数据库、云存储），将直接存储在文件内部。例如压缩包，这些内容都会存储在文件中。
 ### 加密
 #### 前端
-用户输入一个密码（Password），然后我们随机生成一个Slat。两者结合生成了一个k（AESkey）。接下来使用AES-CGM的加密公式：$$C_i=P_i⊕E_k(IV||counter_i)$$
-生成了密文（ciphertext）。
+用户输入一个密码（`Password`），然后我们随机生成一个`Slat`。
+两者结合生成了一个`k`（`AESkey`）。接下来使用`AES-CGM`的加密公式：$$C_i=P_i⊕E_k(IV||counter_i)$$
+生成了密文（`ciphertext`）。
 #### 传输
 前端向后端主要传输：
-- 密文（Ciphertext）
-- Salt
-- nonce（IV）
-Password留在本地，并不会被传输。且Ciphertext中不会包含Password。
+- 密文（`Ciphertext`）
+- `Salt`
+- `nonce`（`IV`）
+`Password`留在本地，并不会被传输。且`Ciphertext`中不会包含`Password`。
 #### 后端
 后端存储前端传输过来的密文、盐和初始向量。
 ### 解密
 #### 后端、传输
 后端将密文、盐和初始向量传输给前端。
 #### 前端
-用户再次输入Password，将Password和Slat结合生成k，解密ciphertext。Password全程留在本地。
+用户再次输入`Password`，将`Password`和`Slat`结合生成`k`，解密`ciphertext`。`Password`全程留在本地。
 ## 常见用途
 - 笔记加密（语雀、为知笔记等私密模式）
 - 压缩包加密（ZIP/RAR/7z）
@@ -26,4 +27,4 @@ Password留在本地，并不会被传输。且Ciphertext中不会包含Password
 - 本地加密数据库
 ## 为什么网站登录不使用这个呢？
 1. 这套方案下，后端是*零知识存储*：他只有密文，不知道具体内容是什么。
-2. 这套方案的校验在本地，服务器根本就不知道你的身份、密码是否正确。这注定不适合网站登录。
+2. 校验在前端完成，服务器无法验证身份。
