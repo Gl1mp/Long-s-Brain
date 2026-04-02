@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网安/密码学/本地加密Slat+IV+Ciphertext.md",
+                "file": "网安/密码学/网站前后端加密原理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "本地加密Slat+IV+Ciphertext"
+              "title": "网站前后端加密原理"
             }
           }
         ]
@@ -199,8 +199,8 @@
   },
   "active": "f4277394baed5c72",
   "lastOpenFiles": [
-    "网安/密码学/网站前后端加密原理（eg登录）.md",
     "网安/密码学/本地加密Slat+IV+Ciphertext.md",
+    "网安/密码学/网站前后端加密原理.md",
     "网安/Windows中修改软件的过程时程序崩溃.md",
     "网安/密码学",
     "网安/BP显示中文为'口口口口口口'.md",
