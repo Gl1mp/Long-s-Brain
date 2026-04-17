@@ -42,13 +42,13 @@
 
 ## 5. 使用 SSH 的 Git 命令
 
-| 操作 | 命令 | 说明 |
-|------|------|------|
-| SSH 方式克隆 | `git clone git@github.com:username/repo.git`<br>`git clone git@gitlab.com:username/repo.git` | 直接使用 SSH URL |
-| 添加远程仓库（SSH） | `git remote add origin git@github.com:username/repo.git` | 添加 SSH 远程 |
-| 修改现有远程为 SSH | `git remote set-url origin git@github.com:username/repo.git` | 把 HTTPS 改为 SSH |
-| 查看远程地址 | `git remote -v` | 确认当前使用的是 SSH 还是 HTTPS |
-| 推送 / 拉取 | `git push origin main`<br>`git pull origin main` | SSH 下通常无需输入用户名和密码 |
+| 操作          | 命令                                                                                           | 说明                    |
+| ----------- | -------------------------------------------------------------------------------------------- | --------------------- |
+| SSH 方式克隆    | `git clone git@github.com:username/repo.git`<br>`git clone git@gitlab.com:username/repo.git` | 直接使用 SSH URL          |
+| 添加远程仓库（SSH） | `git remote add origin git@github.com:username/repo.git`                                     | 添加 SSH 远程             |
+| 修改现有远程为 SSH | `git remote set-url origin git@github.com:username/repo.git`                                 | 把 HTTPS 改为 SSH        |
+| 查看远程地址      | `git remote -v`                                                                              | 确认当前使用的是 SSH 还是 HTTPS |
+| 推送 / 拉取     | `git push origin main`<br>`git pull origin main`                                             | SSH 下通常无需输入用户名和密码     |
 
 **常见 SSH URL 格式**：
 - GitHub：`git@github.com:用户名/仓库名.git`
