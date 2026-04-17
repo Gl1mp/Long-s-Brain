@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git命令快速查阅表.md",
-                "mode": "preview",
+                "file": "Git/快速查阅/GitSSH连接快速查阅表.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git命令快速查阅表"
+              "title": "GitSSH连接快速查阅表"
             }
           }
         ]
@@ -199,7 +199,11 @@
   },
   "active": "d69689530cea6f4a",
   "lastOpenFiles": [
-    "Git/Git命令快速查阅表.md",
+    "Git/快速查阅/Git命令快速查阅表.md",
+    "Git/快速查阅/GitSSH连接快速查阅表.md",
+    "Git/快速查阅",
+    "Git/开了VPNGit依旧连接错误.md",
+    "Git/Git的初步使用.md",
     "Git/0.本地Git的相关机制.md",
     "Git/Git的结构与使用流程.md",
     "C&CPP/CPP/编译器(MSVC)/预编译头文件.md",
@@ -221,10 +225,6 @@
     "C&CPP/CPP/利用Chrono库实现的程序计时.md",
     "汉化/po文件和mo文件.md",
     "汉化/相关软件/Resource Hacker.md",
-    "网安/密码学/哈希密码校验：Ciphertext中的一部分.md",
-    "网安/密码学/本地加密认证：Password+Salt+AES.md",
-    "网安/密码学/!Index.md",
-    "网安/密码学/网站前后端加密传输原理.md",
     "网安/密码学",
     "工具/VS/Pictures",
     "工具/VS/Pictures/Pasted image 20260325101245.png",
@@ -235,7 +235,6 @@
     "C&CPP/CPP/编译器(MSVC)",
     "C&CPP/CPP/类和对象",
     "C&CPP/CPP/关键字",
-    "C&CPP/CPP/运算符",
     "网络/Picture/Pasted image 20260314112540.png",
     "网络/Picture/Pasted image 20260314110829.png",
     "Pasted image 20260314111601.png",
