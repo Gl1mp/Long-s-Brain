@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git命令.md",
-                "mode": "source",
+                "file": "Git/Git命令快速查阅表.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git命令"
+              "title": "Git命令快速查阅表"
             }
           }
         ]
@@ -199,7 +199,7 @@
   },
   "active": "d69689530cea6f4a",
   "lastOpenFiles": [
-    "Git/Git命令.md",
+    "Git/Git命令快速查阅表.md",
     "Git/0.本地Git的相关机制.md",
     "Git/Git的结构与使用流程.md",
     "C&CPP/CPP/编译器(MSVC)/预编译头文件.md",
